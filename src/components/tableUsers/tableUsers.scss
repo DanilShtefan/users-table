@@ -1,0 +1,20 @@
+.table{
+    width: 1200px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.table__inner{
+    display: flex;
+    flex-direction: column;
+}
+.table-btn{
+    margin-top: 1px;
+    border: solid 1px #111;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+.table-btn:hover{
+    background-color: rgb(138, 210, 219);
+}
